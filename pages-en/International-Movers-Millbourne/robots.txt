@@ -3,4 +3,5 @@ User-agent: Googlebot
 User-agent: *
 Allow: /
 
-https://intl-movers-en.compare-service-companies.com/sitemap.xml
+Sitemap: https://intl-movers-en.compare-service-companies.com/sitemap.xml
+
